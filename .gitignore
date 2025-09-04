@@ -1,0 +1,22 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build output
+/out/
+Basics/out/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
