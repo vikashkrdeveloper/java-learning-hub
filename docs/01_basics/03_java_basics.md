@@ -10,7 +10,7 @@ To start programming in Java, you need to install the Java Development Kit (JDK)
 latest version of JDK from the official Oracle website or use an open-source alternative like OpenJDK.
 
 # Setting Up Your Development Environment
-
+ 
 You can write Java code using any text editor, but it's recommended to use an Integrated Development Environment (IDE)
 like IntelliJ IDEA, Eclipse, or NetBeans for better productivity. These IDEs provide features like code completion,
 debugging, and project management.
