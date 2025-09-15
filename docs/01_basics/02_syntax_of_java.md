@@ -13,13 +13,13 @@ dependencies as possible. Here are some of the key syntax elements of Java:
 2. **Main Method**: The entry point of any Java application is the `main` method.
    ```java 
    public static void main(String[] args) {
-       // code to be executed
+       // code to be executed ted
    }
-   ```
+   ``` 
 3. **Variables**: Variables must be declared with a specific data type before they can be used.
    ```java
     int myNumber = 5; // integer variable
-    String myString = "Hello, World!"; // string variable
+    String myString = "Hello, World! test"; // string variable
     ```
 4. **Data Types**: Java has several built-in data types, including:
     - Primitive types: `int`, `byte`, `short`, `long`, `float

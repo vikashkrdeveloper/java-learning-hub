@@ -22,7 +22,7 @@ Here is a simple Java program that prints "Jai Shri Ram!" to the console:
 ```java
 public class JaiShriRam {
     public static void main(String[] args) {
-        System.out.println("Jai Shri Ram!");
+        System.out.println("Jai Shri Ram! || Jai Hanuman!");
     }
 }
 ```
