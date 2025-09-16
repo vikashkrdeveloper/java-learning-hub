@@ -20,7 +20,7 @@ public class StringCodes {
 
         // Get the Unicode code point count in a substring
         int codePointCount = str.codePointCount(0, str.length());
-        System.out.println("Total Unicode code points in the string: " + codePointCount);
+        System.out.println("Total Unicode code points in the string: ==> " + codePointCount);
 
         // Convert the string to an array of characters
         char[] charArray = str.toCharArray();
