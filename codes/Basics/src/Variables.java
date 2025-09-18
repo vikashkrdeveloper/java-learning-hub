@@ -7,7 +7,7 @@ public class Variables {
         boolean myBoolean = true;
 
         // Printing variables
-        System.out.println("Integer: " + myNumber);
+        System.out.println("Integer: ==> " + myNumber);
         System.out.println("String: ==> " + myString);
         System.out.println("Double: ==> " + myDouble);
         System.out.println("Boolean: ==> " + myBoolean);

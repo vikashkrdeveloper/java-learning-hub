@@ -8,7 +8,7 @@ public class StringCodes {
 
         // Get a character at a specific index
         char charAtIndex = str.charAt(7);
-        System.out.println("Character at index 7: " + charAtIndex);
+        System.out.println("Character at index 7: ==> " + charAtIndex);
 
         // Get the Unicode code point of a character at a specific index
         int codePointAtIndex = str.codePointAt(7);
