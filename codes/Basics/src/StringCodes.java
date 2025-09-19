@@ -4,7 +4,7 @@ public class StringCodes {
 
         // Get the length of the string
         int length = str.length();
-        System.out.println("Length: " + length);
+        System.out.println("Length: ==> " + length);
 
         // Get a character at a specific index
         char charAtIndex = str.charAt(7);
@@ -24,7 +24,7 @@ public class StringCodes {
 
         // Convert the string to an array of characters
         char[] charArray = str.toCharArray();
-        System.out.print("Character array: ");
+        System.out.print("Character array: ==> ");
         for (char c : charArray) {
             System.out.print(c + " ");
         }

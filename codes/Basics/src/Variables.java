@@ -19,8 +19,8 @@ public class Variables {
         myBoolean = false;
 
         // Printing updated variables
-        System.out.println("Updated Integer: " + myNumber);
-        System.out.println("Updated String: " + myString);
+        System.out.println("Updated Integer: ==> " + myNumber);
+        System.out.println("Updated String: ==> " + myString);
         System.out.println("Updated Double: " + myDouble);
         System.out.println("Updated Boolean: " + myBoolean);
     }
