@@ -7,13 +7,13 @@ dependencies as possible. Here are some of the key syntax elements of Java:
    method.
    ```java
    public class MyClass {
-       // class body
+       // class body ==> 
    }
    ```
 2. **Main Method**: The entry point of any Java application is the `main` method.
    ```java 
    public static void main(String[] args) {
-       // code to be executed ted
+       // code to be executed ted ==> 
    }
    ``` 
 3. **Variables**: Variables must be declared with a specific data type before they can be used.
