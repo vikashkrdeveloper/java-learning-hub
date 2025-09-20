@@ -92,7 +92,7 @@ the console and
 moves the cursor to a new line. For example:
 
 ```java
-    System.out.println("Hello, World!");
+    System.out.println("Hello, World! ==> ");
 ```
 
 # Importance of the main method
@@ -103,7 +103,7 @@ the program. Without the `main` method, the program will not run.
 
 ```java
     public static void main(String[] args) {
-    // code to be executed
+    // code to be executed ==> 
 }
 ```
 
