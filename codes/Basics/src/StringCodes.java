@@ -13,7 +13,7 @@ public class StringCodes {
         // Get the Unicode code point of a character at a specific index
         int codePointAtIndex = str.codePointAt(7);
         System.out.println("Unicode code point at index 7: ==> " + codePointAtIndex);
-
+ 
         // Get the Unicode code point before a specific index
         int codePointBeforeIndex = str.codePointBefore(7);
         System.out.println("Unicode code point before index 7: ==> " + codePointBeforeIndex);
