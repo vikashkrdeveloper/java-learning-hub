@@ -28,5 +28,5 @@ public class StringCodes {
         for (char c : charArray) {
             System.out.print(c + " ");
         }
-    }
+    } 
 }

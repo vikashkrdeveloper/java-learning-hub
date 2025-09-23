@@ -6,7 +6,7 @@ public class Variables {
         double myDouble = 5.99;
         boolean myBoolean = true;
 
-        // Printing variables
+        // Printing variables 
         System.out.println("Integer: ==> " + myNumber);
         System.out.println("String: ==> " + myString);
         System.out.println("Double: ==> " + myDouble);
