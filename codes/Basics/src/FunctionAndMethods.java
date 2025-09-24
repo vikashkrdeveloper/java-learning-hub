@@ -12,10 +12,10 @@ public class FunctionAndMethods {
     public static void main(String[] args) {
         // Calling the add method and storing the result
         int sum = add(5, 10);
-        System.out.println("Sum: " + sum);
+        System.out.println("Sum: ==> " + sum);
 
         // Calling the printUpperCase method
-        printUpperCase("hello, world!");
+        printUpperCase("hello, world! ==> ");
     }
 
     // Difference between function and method in Java:
