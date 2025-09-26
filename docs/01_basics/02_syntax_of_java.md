@@ -8,7 +8,7 @@ dependencies as possible. Here are some of the key syntax elements of Java:
    ```java
    public class MyClass {
        // class body ==> 
-   }
+   } 
    ```
 2. **Main Method**: The entry point of any Java application is the `main` method.
    ```java 
