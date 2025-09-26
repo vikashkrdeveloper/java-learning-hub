@@ -5,7 +5,7 @@ dependencies as possible. It is widely used for building enterprise-scale applic
 Android apps), web applications, and more.
 
 # Installing Java Development Kit (JDK)
-
+ 
 To start programming in Java, you need to install the Java Development Kit (JDK) on your machine. You can download the
 latest version of JDK from the official Oracle website or use an open-source alternative like OpenJDK.
 
