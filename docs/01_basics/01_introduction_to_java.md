@@ -133,13 +133,13 @@ Here is a simple Java program and its corresponding bytecode:
 // Java Source Code (HelloWorld.java)
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World! ==> ");
     }
 }
 ```
 When compiled, this code generates a `HelloWorld.class` file containing the following bytecode (simplified representation):
 ```// Bytecode (HelloWorld.class)
-0: ldc           #2                  // String "Hello, World!"
+0: ldc           #2                  // String "Hello, World! ==> "
 3: invokevirtual #3                  // Method java/io/PrintStream.println:(Ljava/lang/String;)V
 6: return
 ```
