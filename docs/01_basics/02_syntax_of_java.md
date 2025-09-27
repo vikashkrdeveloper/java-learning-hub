@@ -19,7 +19,7 @@ dependencies as possible. Here are some of the key syntax elements of Java:
 3. **Variables**: Variables must be declared with a specific data type before they can be used.
    ```java
     int myNumber = 5; // integer variable
-    String myString = "Hello, World! test"; // string variable
+    String myString = "Hello, World! test ==> "; // string variable
     ```
 4. **Data Types**: Java has several built-in data types, including:
     - Primitive types: `int`, `byte`, `short`, `long`, `float
@@ -30,7 +30,7 @@ dependencies as possible. Here are some of the key syntax elements of Java:
     - Loops: `for`, `while`, `do-while`
    ```java
         if (myNumber > 0) {
-            System.out.println("Positive number");
+            System.out.println("Positive number ==> ");
         } else {
             System.out.println("Non-positive number");
         }
