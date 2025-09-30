@@ -32,7 +32,7 @@ dependencies as possible. Here are some of the key syntax elements of Java:
         if (myNumber > 0) {
             System.out.println("Positive number ==> ");
         } else {
-            System.out.println("Non-positive number");
+            System.out.println("Non-positive number ==> ");
         }
    ```
 6. **Methods**: Methods are blocks of code that perform a specific task and can be called from other parts of the
@@ -54,7 +54,7 @@ dependencies as possible. Here are some of the key syntax elements of Java:
     try {
         // code that may throw an exception
     } catch (ExceptionType e) {
-        // handle exception
+        // handle exception ==> 
     } finally {
         // code that will always execute
     }
