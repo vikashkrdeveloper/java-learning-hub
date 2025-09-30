@@ -3,6 +3,7 @@
 - Computers understand high level languages like Java, C.  
 > **Answer:** False. Computers understand machine code; high-level languages need to be compiled or interpreted.
 
+>> >>
 - An Algorithm is a set of instructions to accomplish a task.  
 > **Answer:** True
 
