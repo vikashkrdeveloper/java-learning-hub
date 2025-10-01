@@ -10,11 +10,11 @@ public class FunctionAndMethods {
     }
 
     public static void main(String[] args) {
-        // Calling the add method and storing the result
+        // Calling the add method and storing the result ==> 
         int sum = add(5, 10);
         System.out.println("Sum: ==> " + sum);
 
-        // Calling the printUpperCase method
+        // Calling the printUpperCase method ==> 
         printUpperCase("hello, world! ==> ");
     }
 
