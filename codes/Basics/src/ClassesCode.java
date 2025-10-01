@@ -13,7 +13,7 @@ public class ClassesCode {
 
         // Method to make the dog bark
         void bark() {
-            System.out.println(name + " says: Woof Woof!");
+            System.out.println(name + " says: Woof Woof! ==> ");
         }
 
         // Method to get the dog's age in human years
@@ -24,7 +24,7 @@ public class ClassesCode {
 
     public static void main(String[] args) {
         // Creating an instance (object) of the Dog class
-        Dog myDog = new Dog("Buddy", 3);
+        Dog myDog = new Dog("Buddy ==> ", 3);
 
         // Accessing attributes and methods of the Dog object
         System.out.println("My dog's name is: " + myDog.name);
