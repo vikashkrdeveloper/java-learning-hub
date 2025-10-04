@@ -1,4 +1,4 @@
-public class Variables {
+class Variables {
     public static void main(String[] args) {
         // Variable declaration and initialization
         int myNumber = 10;

@@ -1,4 +1,4 @@
-public class TypeConversion {
+class TypeConversion {
     public static void main(String[] args) {
         // Type Conversion
         // Type1: Implicit Type Conversion (Widening) - Automatic (Coercion)

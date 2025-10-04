@@ -1,4 +1,4 @@
-public class DataTypes {
+class DataTypes {
     public static void main(String[] args) {
         // Primitive Data Types
         byte myByte = 1;
